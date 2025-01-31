@@ -23,11 +23,6 @@ def factorial(n):
     return result
 
 
-
-
-
-
-
 def triangular(n):
     '''
     Returns the nth triangular number.
